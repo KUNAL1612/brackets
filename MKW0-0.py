@@ -1,3 +1,4 @@
+#Problem statement : https://www.codechef.com/ZCOPRAC/problems/ZCO12001 
 n=int(input())
 brackets=[int(q) for q in input().split()]
 counter=0
